@@ -1,4 +1,4 @@
-# PCBSPDefect and PCBMTL
+# PCB Soldering Defect Inspection Using Multi-Task Learning Under Low Data Regimes
 ## Project RP5.2, Integrity of Sensor Data
 By Sik-Ho Tsang, Zhaoqing Suo, Tom Tak-Lam Chan, Huu-Thanh Nguyen, and Daniel Pak-Kong Lun
 
