@@ -11,7 +11,8 @@ The PCBSPDefect dataset will be available once the paper is published.
 ### PCBMTL Approach
 The PCBMTL Approach will be available once the paper is published.
 
-### Citations
+### Citation
+Please cite the paper when the dataset or approach is used or described.
 ```
 To be updated
 ```
